@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6aa2ec4566447f1ba1526a8afb042b, type: 3}
+  m_Name: Shaira
+  m_EditorClassIdentifier: 
+  playerName: "\u30B7\u30E3\u30A4\u30E9"
+  playerModel: {fileID: 1670351807501242067, guid: f31ef0e8f9ed9421699a0a6891899f53, type: 3}
+  weakTypes: 01000000
+  resistanceTypes: 02000000
+  invalidTypes: 04000000
+  playerId: 0
+  playerMaxHp: 200
+  playerMaxSp: 210
+  playerPhysicAtk: 0
+  playerPhysicDef: 0
+  playerMagicAtk: 0
+  playerMagicDef: 0
+  playerAgi: 7
+  playerLv: 0
+  learnablePlayerSkills:
+  - skillBase: {fileID: 11400000, guid: 075acbf9d921f4f708f371a7ff769dde, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 075acbf9d921f4f708f371a7ff769dde, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 075acbf9d921f4f708f371a7ff769dde, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 72eef7357477849a6b1a8df96502dedd, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 3b5e7422e7bbb4aa08270445b85b21e3, type: 2}
+    level: 1

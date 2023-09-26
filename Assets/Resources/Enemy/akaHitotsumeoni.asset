@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f451ff12826354cd5ae14117da85616b, type: 3}
+  m_Name: akaHitotsumeoni
+  m_EditorClassIdentifier: 
+  enemyName: "\u8D64\u4E00\u3064\u76EE\u9B3C"
+  description: "\u8D64\u3044\u4E00\u3064\u76EE\u9B3C"
+  enemyModel: {fileID: 1975194375736644, guid: 55daa998c849446e58dfdbc02ab952c5, type: 3}
+  weakTypes: 02000000
+  resistanceTypes: 01000000
+  invalidTypes: 
+  maxHp: 150
+  physicPower: 10
+  magicPower: 10
+  def: 10
+  agi: 7
+  luck: 0
+  learnableEnemySkills:
+  - skillBase: {fileID: 11400000, guid: 075acbf9d921f4f708f371a7ff769dde, type: 2}
+    level: 0
+  - skillBase: {fileID: 11400000, guid: 1475bfbf4f8a4274cbda5853cd9717c8, type: 2}
+    level: 0

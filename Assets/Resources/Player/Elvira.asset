@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6aa2ec4566447f1ba1526a8afb042b, type: 3}
+  m_Name: Elvira
+  m_EditorClassIdentifier: 
+  playerId: 1
+  playerName: "\u30A8\u30EB\u30F4\u30A3\u30E9"
+  playerModel: {fileID: 3082033573810227207, guid: 368d8577e86d843b3a4538c35d54b68c, type: 3}
+  weakTypes: 06000000
+  resistanceTypes: 00000000
+  invalidTypes: 01000000
+  playerMaxHp: 200
+  playerMaxSp: 200
+  playerPhysicAtk: 0
+  playerPhysicDef: 0
+  playerMagicAtk: 0
+  playerMagicDef: 0
+  playerAgi: 10
+  playerLv: 0
+  learnablePlayerSkills:
+  - skillBase: {fileID: 11400000, guid: 075acbf9d921f4f708f371a7ff769dde, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 72eef7357477849a6b1a8df96502dedd, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 72eef7357477849a6b1a8df96502dedd, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 3b5e7422e7bbb4aa08270445b85b21e3, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 7ac0b7a1926595c4a96f21204121686a, type: 2}
+    level: 1
+  - skillBase: {fileID: 11400000, guid: 72f6a80ec219c9148b9c8ae56920c86f, type: 2}
+    level: 1

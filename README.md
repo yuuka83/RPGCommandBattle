@@ -1,1 +1,1 @@
-# RPGCommandBattle
+# RPGのコマンド戦闘
