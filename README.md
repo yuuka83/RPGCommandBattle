@@ -1,3 +1,4 @@
 # RPGのコマンド戦闘
 
-![image](https://github.com/yuuka83/RPGCommandBattle/assets/66520685/15aed85b-be81-456c-b7ac-3a4f35356ad4)
+![rpg_uml](https://github.com/yuuka83/RPGCommandBattle/assets/66520685/5be4e84f-ca0b-4180-8142-0e91dd635f8f)
+
